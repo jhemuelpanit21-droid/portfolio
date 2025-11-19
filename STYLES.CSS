@@ -733,3 +733,11 @@ footer {
   50% { border-color: transparent; }
 }
 
+
+
+
+
+h1 {
+  border-right: 2px solid cyan;
+  box-shadow: inset -3px 0 8px cyan;
+}
